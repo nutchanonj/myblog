@@ -45,3 +45,19 @@ exclude:
   - update_boostrap.sh
 
 show_excerpts: true
+
+paginate: 2
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

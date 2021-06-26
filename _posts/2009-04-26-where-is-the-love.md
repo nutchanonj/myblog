@@ -1,7 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-06-26 12:22:20 +0700
+title: "Where Is the Love?"
+tags: Song
 ---
 
 "Where Is the Love?" is a song by American hip hop group the Black Eyed Peas. It was released on May 12, 2003, as the lead single from their third album, Elephunk. The song was written by will.i.am, apl.de.ap, Taboo, Justin Timberlake, Printz Board, Michael Fratantuno and George Pajon. The track features vocals from Timberlake, although he is not officially credited on the single release. It was the group's first song to feature singer Fergie as an official member. 
