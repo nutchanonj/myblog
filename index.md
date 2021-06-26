@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bootstrap 4 Github Pages
+title: Some EE student in Thailand
 ---
 
 Hi, my name is Nutchanon J

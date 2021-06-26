@@ -15,22 +15,24 @@ layout: default
   </section>
 
   {%- if site.posts.size > 0 -%}
-    <p class="h2">{{ page.list_title | default: "Posts" }}</p>
+    <p class="h2 mb-3">{{ page.list_title | default: "Posts" }}</p>
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
+      
       <li>
-        <span class="text-muted">
-          {%- assign date_format = "%b %-d, %Y" -%}
-          {{ post.date | date: date_format }}
-        </span>
-        <p class="h5">
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        <div class="card mb-2" style="width: device-width;">
+          <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+          <div class="card-body">
+            <h4 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h5>
+            <h5 class="card-subtitle text-muted">
+              {%- assign date_format = "%b %-d, %Y" -%}
+              {{ post.date | date: date_format }}
+            </h5>
+            <p class="card-text">{%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}</p>
+            <p><a href="{{ post.url | relative_url }}" class="btn btn-primary">Go somewhere</a></p>
+          </div>
+        </div>
+
       </li>
       {%- endfor -%}
     </ul>
