@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+
+<style>
+  .sticky-offset{
+    top:90px;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
 <article>
 
   <div class="container-fluid ml-n2 mr-n2">
@@ -25,8 +35,13 @@ layout: default
         </section>
 
       </div>
-      <div class="col-lg-3">
-        Variable width content
+      <div class="col-lg-4">
+        <div class="card sticky-top sticky-offset ml-4 mr-n4">
+          <h5 class="card-header">Table of Content</h5>
+          <div class="card-body mx-n2 my-n2">
+            <p class="card-text">{% include toc.html html=content %}</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>

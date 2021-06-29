@@ -46,7 +46,7 @@ exclude:
 
 show_excerpts: true
 
-paginate: 2
+paginate: 5
 
 defaults:
   -
