@@ -1,6 +1,7 @@
 ---
 title: "King of Thailand"
 tags: History
+cardimage: "images/thaiking.jpg"
 ---
 
 Upon a close examination of the history of Thailand’s monarchy, two of the Kingdom’s monarchs truly stand out as being difference makers in their noble efforts to serve the Thai nation and people: King Chulalongkorn (Rama V) and King Bhumibol (Rama IX).

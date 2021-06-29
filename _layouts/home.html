@@ -2,16 +2,17 @@
 layout: default
 ---
 
+
 <div>
 
   {%- if page.title -%}
-  <header class="mb-4">
+  <header class="mb-2">
     <h1>{{ page.title }}</h1>
   </header>
   {%- endif -%}
 
   {%- if paginator.page == 1 -%}
-  <div class="card mb-4 text-white bg-success">
+  <div class="card mb-2 text-white bg-success">
     <div class="card-body mb">
       <h3 class="card-title">Welcome!</h3>
       <p class="card-text">My name is Nutchanon J. I'm an electrical engineering student at Chulalongkorn University of Thailand. My expected graduation
@@ -21,28 +22,67 @@ layout: default
   </div>
   {%- endif -%}
 
-  <p class="h2 mb-3">{{ page.list_title | default: "Posts" }}</p>
+  <p class="h2 mb-2">{{ page.list_title | default: "Posts" }}</p>
   <ul class="list-unstyled">
     {%- for post in paginator.posts -%}
     <li>
+
+      <!--
+      <div class="card mb-3" style="width: device-width;">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="{{ 'images/japan-store.jpg' | relative_url }}" class="card-img" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h4 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</h4>
+              <h5 class="card-subtitle text-muted">
+                {%- assign date_format = "%b %-d, %Y" -%}
+                {{ post.date | date: date_format }}  
+              </h5>
+              <p class="card-text">
+                {%- if site.show_excerpts -%}{{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}{%- endif -%}
+                {% for tag in post.tags %}
+                <span class="badge badge-pill badge-primary">
+                  { tag }}
+                </span>
+              {% endfor %}
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </div>  
+      -->
+      
       <div class="card mb-1" style="width: device-width;">
-        <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
-        <div class="card-body mb-n1">
-          <h4 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
-          <h5 class="card-subtitle text-muted">
-            {%- assign date_format = "%b %-d, %Y" -%}
-            {{ post.date | date: date_format }}  
-          </h5>
-          <p class="card-text">{%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}</p>
-          {% for tag in post.tags %}
-            <span class="badge badge-pill badge-primary">
-              {{ tag }}
-            </span>
-          {% endfor %}
-          <!-- <p><a href="{{ post.url | relative_url }}" class="btn btn-primary">Go somewhere</a></p> -->
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <div style="height: 250px; max-width: 100%">
+              <img src="{{ post.cardimage | relative_url }}" class="card-image img-fluid img-cover" alt="...">
+            </div>
+          </div>
+          <div class="col-md-8">
+            <div class="card-body mb-n1">
+              <h4 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
+              <h5 class="card-subtitle text-muted">
+                {%- assign date_format = "%b %-d, %Y" -%}
+                {{ post.date | date: date_format }}  
+              </h5>
+              <p class="card-text mt-1">{%- if site.show_excerpts -%}{{ post.excerpt | strip_html | strip_newlines | truncate: 350 }}{%- endif -%}</p>
+              {% for tag in post.tags %}
+                <span class="badge badge-pill badge-primary">
+                  {{ tag }}
+                </span>
+              {% endfor %}
+          </div>
+        </div>
+        
         </div>
       </div>
     </li>
+    
+
     {%- endfor -%}
   </ul>
     
