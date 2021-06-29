@@ -4,7 +4,7 @@ layout: default
 
 <style>
   .sticky-offset{
-    top:90px;
+    top:105px;
   }
   html {
     scroll-behavior: smooth;
@@ -17,7 +17,7 @@ layout: default
     <div class="row">
 
       <div class="col-lg-4 d-none d-lg-block">
-        <div class="card sticky-top sticky-offset mln-4 mr-4">
+        <div class="card sticky-top sticky-offset mln-4 mr-2">
           <h5 class="card-header">Table of Content</h5>
           <div class="card-body mx-n2 my-n2">
             <p class="card-text">{% include toc.html html=content %}</p>
@@ -41,7 +41,7 @@ layout: default
         </header>
 
         <div class="col-lg-4 d-none d-sm-block d-lg-none mt-3 mb-3">
-          <div class="card sticky-top sticky-offset">
+          <div class="card">
             <h5 class="card-header">Table of Content</h5>
             <div class="card-body mx-n2 my-n2">
               <p class="card-text">{% include toc.html html=content %}</p>
