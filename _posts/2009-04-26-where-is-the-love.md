@@ -1,6 +1,6 @@
 ---
 title: "Where Is the Love?"
-tags: Song
+tags: Song US
 cardimage: "images/theblackeyepeas.jpg"
 ---
 
