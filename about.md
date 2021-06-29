@@ -1,5 +1,5 @@
 ---
-title: About
+title: เกี่ยวกับ
 permalink: /about/
 ---
 
