@@ -9,6 +9,12 @@ layout: default
   html {
     scroll-behavior: smooth;
   }
+  :target::before {
+    content: "";
+    display: block;
+    height: 90px; /* fixed header height*/
+    margin: -90px 0 0; /* negative fixed header height */
+  }
 </style>
 
 <article>

@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <div>
 
   {%- if page.title -%}
@@ -35,7 +34,7 @@ layout: default
           </div>
 
           <div class="col-md-8">
-            <div class="card-body mb-n1">
+            <div class="card-body">
               <h4 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
               <h5 class="card-subtitle text-muted">
                 {%- assign date_format = "%b %-d, %Y" -%}

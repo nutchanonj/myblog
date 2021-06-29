@@ -4,15 +4,4 @@ tags: Science
 cardimage: "images/technology.jpg"
 ---
 
-Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology. 
-
-I hope you like it!
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+テクノロジーのもたらす害悪・危険について、様々な議論が行われている。古くはネオ・ラッダイトやアナキズムなどの運動は哲学的に、現代社会におけるテクノロジーの普遍性を批判し、それが環境を破壊し、人々を疎外する（=人間を支配し、人間の本質を失わせる）としたし、それ以降も、様々な人々からもしばしば批判されており、現在でも、現実的な視点から、全世界で反原子力運動は行われている。一方、トランスヒューマニズムなどの支持者は、テクノロジーの継続的進歩が社会や人間性にとって有益だと主張する。アインシュタインは「科学技術の進歩というのは、病的犯罪者の手の中にある斧のようなものだ」と述べた。 
