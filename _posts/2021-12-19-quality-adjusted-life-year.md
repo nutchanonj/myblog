@@ -10,8 +10,6 @@ cardimage: "images/QALY-graph-en.png"
 
 นี่เองที่เป็นหลักการของ Quality-adjusted life year ซึ่งเป็นหนึ่งใน cost-utility analysis
 
-![QALY-graph]({{site.baseurl}}/images/QALY-graph-en.png)
-
 ข้อเสียของการคิดเชิงเศรษฐศาสตร์แบบนี้คือ
 
 1. แสดงว่าเราควรจะปล่อยคนที่ใกล้ตาย เพราะไม่คุ้มกับการรักษาหรือเปล่า

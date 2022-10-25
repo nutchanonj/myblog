@@ -17,7 +17,7 @@ author: Nutchanon J
 title: Nutchanon J's Stories
 email: "nutchanon.non@outlook.co.th"
 description: >- # this means to ignore newlines until "baseurl:"
-  รวมบทความของนิสิตคณะวิศวะฯ คนหนึ่งในจุฬา ที่เรียนภาคไฟฟ้า ตั้งแต่เรื่องสังคม เศรษฐกิจ หุ้น เพลง แนวคิด ประวัติศาสตร์ ภาษา 
+  รวมบทความของนิสิตคณะวิศวะฯ คนหนึ่งในจุฬา ที่เรียนภาคไฟฟ้า
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://nutchanonj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
