@@ -28,6 +28,6 @@ cardimage: "images/usa.gif"
 
 ที่มา:
 
-https://en.wikipedia.org/wiki/Four_color_theorem#Proof_by_computer
+[Four color theorem, proof by computer, on Wiki](https://en.wikipedia.org/wiki/Four_color_theorem#Proof_by_computer)
 
-https://www.cantorsparadise.com/the-four-color-theorem-8eece6ab6b12
+[Four color theorem from cantorsparadise.com](https://www.cantorsparadise.com/the-four-color-theorem-8eece6ab6b12)
