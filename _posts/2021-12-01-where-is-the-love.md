@@ -1,7 +1,7 @@
 ---
 title: "รีวิว เรื่อง The Tatami Galaxy"
 tags: Anime
-cardimage: "images/The_Tatami_Galaxy.jpg.jpg"
+cardimage: "images/The_Tatami_Galaxy.jpg"
 ---
 
 (สัญญาว่าจะสปอยล์ให้น้อยที่สุด 555)
