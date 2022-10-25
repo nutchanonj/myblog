@@ -10,7 +10,7 @@ cardimage: "images/QALY-graph-en.png"
 
 นี่เองที่เป็นหลักการของ Quality-adjusted life year ซึ่งเป็นหนึ่งใน cost-utility analysis
 
-![Braess's Paradox]({{site.baseurl}}/images/QALY-graph-en.png)
+![QALY-graph]({{site.baseurl}}/images/QALY-graph-en.png)
 
 ข้อเสียของการคิดเชิงเศรษฐศาสตร์แบบนี้คือ
 
