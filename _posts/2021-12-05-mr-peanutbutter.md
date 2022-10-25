@@ -1,6 +1,6 @@
 ---
 title: "วิเคราะห์ตัวละคร Mr.Peanutbutter ในเรื่อง BoJack Horseman"
-tags: AmericanSeries
+tags: American-Series
 cardimage: "images/mr_peanutbutter.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "แปลกลอน The View From Halfway Down จากซีรีย์ BoJack Horseman"
-tags: AmericanSeries
+tags: American-Series
 cardimage: "images/view-halfway.jpg"
 ---
 

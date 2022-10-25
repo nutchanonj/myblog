@@ -1,6 +1,6 @@
 ---
 title: "I'm leaving..."
-tags: Rant
+tags: Free-Writing
 cardimage: "images/jackshit.png"
 ---
 
