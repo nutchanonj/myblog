@@ -1,5 +1,5 @@
 ---
-title: "6G เป็นเรื่องของการเมืองอีกหรือเปล่า"
+title: "เทคโนโลยี 6G เป็นเรื่องของการเมืองอีกหรือเปล่า"
 tags: Technology
 cardimage: "images/china-flag.jpg"
 ---
