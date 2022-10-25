@@ -69,7 +69,7 @@
 
     {% capture jekyll_toc %}{% endcapture %}
     {% assign orderedList = include.ordered | default: false %}
-    {% assign baseURL = 'include.base_url/myblog' | default: include.baseurl | default: '' %}
+    {% assign baseURL = include.base_url | default: include.baseurl | default: '' %}
     {% assign skipNoIDs = include.skip_no_ids | default: include.skipNoIDs | default: false %}
     {% assign minHeader = include.h_min | default: 1 %}
     {% assign maxHeader = include.h_max | default: 6 %}
