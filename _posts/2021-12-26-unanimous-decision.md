@@ -4,9 +4,9 @@ tags: Mathematics
 cardimage: "images/statistics-num-chon.jpg"
 ---
 
-![pair of ppl on a bridge]({{site.baseurl}}/images/statistics-num-chon.jpg)
-
 ทุกคนต้องเคยแอบชอบใครจริงไหมครับ
+
+![pair of ppl on a bridge]({{site.baseurl}}/images/statistics-num-chon.jpg)
 
 สมมติว่าในห้องเรียนของนางสาวน้ำมีกันอยู่ 30 คน นางสาวน้ำกำลังแอบหลงรักนายโชนเข้า แต่เธอไม่รู้ว่านายโชนจะรักเธอตอบหรือไม่ นางสาวน้ำจึงตัดสินใจถามเพื่อนสนิทของเธอทีละคน
 
