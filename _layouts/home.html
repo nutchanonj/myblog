@@ -18,7 +18,6 @@ layout: default
         รวมบทความของนิสิตคณะวิศวะฯ คนหนึ่งในจุฬา ที่เรียนภาคไฟฟ้า 
         ที่เคยเขียนใน Facebook และที่ต่าง ๆ รวมทั้งพวกเนื้อหาที่เป็นประโยชน์เกี่ยวกับเรื่องเรียน 
         ถ้าหาบทความไหนหาไม่เจอให้ลองค้นใน <u><a href="{{ "contents" | relative_url }}" class="text-light">"สารบัญ"</a></u> นะครับ <br>
-        ปล. โปรดอ่านในคอมพิวเตอร์หรือ Tablet ตอนนี้ถ้าดูในโทรศัพท์ หน้าเว็บจะบ้งมาก ขออภัย
       </p>
     </div>
   </div>
@@ -26,17 +25,16 @@ layout: default
 
   <p class="h2 mb-2">{{ page.list_title | default: "บทความต่าง ๆ" }}</p>
   <ul class="list-unstyled">
-    {%- for post in paginator.posts -%}
+    
     <li>
+      <div class="row gy-3 my-3">
+        {%- for post in paginator.posts -%}
+        <div class="col-sm-6 col-md-6 col-lg-4">
 
-      <div class="card mb-1" style="width: device-width; height: 285px;">
-        <div class="row no-gutters">
-          
-          <div class="col-md-4" style="height: 285px;">
-            <img src="{{ post.cardimage | relative_url }}" class="card-image img-fluid img-cover" alt="...">
-          </div>
+          <div class="card mb-3" style="width: device-width" >
 
-          <div class="col-md-8">
+            <img src="{{ post.cardimage | relative_url }}" class="card-image img-fluid img-cover" alt="..." style="height: 350px;">
+
             <div class="card-body">
               <h4 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
               <h5 class="card-subtitle text-muted">
@@ -50,14 +48,16 @@ layout: default
                 </span>
               {% endfor %}
             </div>
+          
           </div>
 
         </div>
+        {%- endfor -%}
       </div>
     
     </li>
 
-    {%- endfor -%}
+    
   </ul>
     
   <nav aria-label="Page navigation example">
