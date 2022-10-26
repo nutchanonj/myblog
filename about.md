@@ -5,6 +5,8 @@ permalink: /about/
 
 ## แบบทางการ:
 
+If you want to see my CV, it is provided [here](https://drive.google.com/file/d/1_ZjuwXUDesfskPQPKyO5i87i6cIQexx7/view?usp=sharing).
+
 My name is Nutchanon Jariyanurut. I'm from Chonburi, Thailand. The city where I live is Bang Saen. It's kinda like a travelers' attraction with the very beautiful beach. (I recommend you to go there in winter; the sea water is very dirty during monsoon season.) You can see how Bang Saen is [here](https://web.facebook.com/shopjungbangsaen/).
 
 For over 9 years in primary and secondary education, I was studying at [Satit Demonstration School](http://www.st.buu.ac.th/).
