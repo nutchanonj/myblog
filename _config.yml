@@ -38,6 +38,10 @@ header_pages:
   - about.md
   - contact.md
 
+aux_links:
+  "เว็บหลัก":
+    - "https://nutchanonj.github.io/"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
