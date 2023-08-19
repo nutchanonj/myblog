@@ -16,7 +16,7 @@ permalink: /about/
 
 ## แบบทางการ: 
 
-ไปดู[ตรงนี้นะ](https://nutchanonj.github.io/about/)
+ไปดู[ตรงนี้นะ](https://nutchanonj.github.io/pages/2_about/)
 
 
 
