@@ -1,6 +1,6 @@
 ---
 title: "ถ้าทุกคนต่างเห็นพ้องต้องกันหมดในเรื่องใดเรื่องหนึ่งเป็นเอกฉันท์ แสดงว่ามันต้องมีอะไรบ้างอย่างผิดปกติแล้วแหละ"
-tags: Mathematics
+tags: Maths
 cardimage: "images/statistics-num-chon.jpg"
 ---
 

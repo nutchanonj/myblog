@@ -1,6 +1,6 @@
 ---
 title: "Gömböc ชิ้นที่ 1917 ณ หอกลาง จุฬา"
-tags: Mathematics
+tags: Maths
 cardimage: "images/G1917.jpg"
 ---
 
