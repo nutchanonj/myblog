@@ -1,6 +1,6 @@
 ---
 title: "สรุปประวัติศาสตร์อิสราเอล – ปาเลสไตน์แบบคร่าวสุด ๆ แบบพยายามไม่ลำเอียงใด ๆ"
-tags: Free-Writing
+tags: History
 cardimage: "images/israel-palestine.webp"
 ---
 
