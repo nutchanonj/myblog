@@ -32,7 +32,6 @@ Actually the situation was complex than that, but I won't dive into details. My 
 
 其實情況比這複雜，但我不會深入細節。我突然想要放棄，改變我的工程道路。天啊，轉變來得太突然了。我記得我以前以為父親不希望我去讀醫學院；這是我的願望。然而，那天我父親對我有點生氣，這是我第一次知道他一直希望我進入醫學院。我們爭論了三、四天。媽的，連我媽都哭了。情況很糟糕，但我們終於渡過了難關。
 
-
 Because in Thailand (I think it may happen to many countries,) many students in medical school actually don't really like to do it. It is just the social norms and parents' expectation that if you really good academically, then why don't you be in medical school? It was harsh. Especially because i was from a top school in Thailand, three out of four students will go to medical school (doctor, dentist, pharmacy are all included.) I gonna bet that 90% of them just going there because 1. their parents 2. their friends also go there 3. they have absolutely no idea what they really want so they just choose that because the pathway is so stable.
 
 因為在泰國（我想很多國家可能都會發生這種情況），很多醫學院的學生其實不太喜歡這樣做。這只是社會規範和父母的期望，如果你的學業真的很好，那你為什麼不去醫學院？這很嚴酷。特別是因為我來自泰國的一所頂尖學校，四分之三的學生會去醫學院（醫生、牙醫、藥房都包括在內。）我敢打賭，他們中的90% 會去那裡，因為1. 他們的父母2.他們的朋友也去那裡 3. 他們完全不知道自己真正想要什麼，所以他們只是選擇那個，因為這條路很穩定。
