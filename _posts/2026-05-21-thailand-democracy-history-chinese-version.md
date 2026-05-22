@@ -4,7 +4,7 @@ tags: History
 cardimage: "images/Signing_of_1932_constitution_of_Siam.jpg"
 ---
 
-(I use AI to translate the original writing into Chinese, and already recheck it by myself. The original writing in Thai can be found [here](https://nutchanonj.github.io/myblog/2026/05/21/thailand-democracy-history-chinese-version.html).)
+(I use AI to translate the original writing into Chinese, and already recheck it by myself. The original writing in Thai can be found [here](https://nutchanonj.github.io/myblog/2026/05/21/thailand-democracy-history.html).)
 
 這是一篇寫給外國人看的泰國民主政治發展史，融合了客觀歷史與我個人的看法。
 
